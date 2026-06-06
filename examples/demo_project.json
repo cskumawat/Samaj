@@ -1,0 +1,8 @@
+{
+  "name": "Demo Authorized Assessment",
+  "status": "draft",
+  "authorization": "Example only. Replace with real written authorization before testing.",
+  "safe_mode": true,
+  "anti_hallucination_mode": true
+}
+

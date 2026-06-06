@@ -1,0 +1,12 @@
+{
+  "program_name": "Example Program",
+  "in_scope": ["example.com"],
+  "out_of_scope": ["payments.example.com"],
+  "allowed_test_types": ["passive_recon", "manual_review"],
+  "disallowed_test_types": ["destructive_testing", "credential_attack"],
+  "rate_limits": {
+    "requests_per_minute": 30
+  },
+  "notes": "Example only. This file does not grant authorization."
+}
+
